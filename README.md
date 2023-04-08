@@ -1,7 +1,9 @@
 # Autonomous_Delivery_Robot
 
 Main board: Raspberry Pi 4B
+
 Additional board: Arduino UNO
+
 Software : ROS 
 
 Rest electronics:
